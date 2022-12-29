@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmStore", "FilmStore\FilmStore.csproj", "{C764F0DC-51AC-4481-AB1E-483A7A8267A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmData", "FilmData\FilmData.csproj", "{EC5C3F05-E97B-4575-822D-05BF9670F6D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C764F0DC-51AC-4481-AB1E-483A7A8267A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C764F0DC-51AC-4481-AB1E-483A7A8267A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C764F0DC-51AC-4481-AB1E-483A7A8267A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C764F0DC-51AC-4481-AB1E-483A7A8267A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5C3F05-E97B-4575-822D-05BF9670F6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5C3F05-E97B-4575-822D-05BF9670F6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5C3F05-E97B-4575-822D-05BF9670F6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5C3F05-E97B-4575-822D-05BF9670F6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
